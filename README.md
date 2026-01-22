@@ -1,4 +1,7 @@
-WIP.... Will update with code and irl performance when finished
+WIP.... Will update with final code and irl performance when finished
+Important errors at the bottom
+
+<img width="1720" height="1290" alt="image" src="https://github.com/user-attachments/assets/8be05744-f64d-4aed-b645-ce211903188e" />
 <img width="2915" height="1452" alt="image" src="https://github.com/user-attachments/assets/6b35761e-0bf8-4d8c-bf35-c5adfef1cfeb" />
 <img width="2298" height="630" alt="image" src="https://github.com/user-attachments/assets/1ce6b139-259f-48e7-9d49-46f27f3392c6" />
 <img width="3316" height="925" alt="image" src="https://github.com/user-attachments/assets/0f49d610-43ed-4cdd-95ac-b50d8a79d992" />
@@ -20,3 +23,7 @@ Layer4: Signal/Heat Spreader
 
 <img width="1594" height="947" alt="image" src="https://github.com/user-attachments/assets/1937185c-84ba-463b-a2de-af5d941ef631" />
 <img width="1695" height="917" alt="image" src="https://github.com/user-attachments/assets/8243ea8c-ec1d-4441-b8aa-22fac062b8c0" />
+
+Design Error: Enable pin of the buck converter cannot be connected to Vin. Must reroute Vin trace(or bend the physical IC pin upward to float it from the pad).
+<img width="1855" height="519" alt="image" src="https://github.com/user-attachments/assets/3091422d-1138-4875-861e-ac8201839f43" />
+<img width="1651" height="1041" alt="image" src="https://github.com/user-attachments/assets/1a29d90e-68d3-4246-8052-091f5897a010" />
