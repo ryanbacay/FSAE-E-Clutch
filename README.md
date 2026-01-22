@@ -1,5 +1,5 @@
-WIP.... Will update with final code and irl performance when finished
-Important errors at the bottom
+WIP.... Will update with final code and irl performance when finished.
+Important errors at the bottom.
 
 <img width="1720" height="1290" alt="image" src="https://github.com/user-attachments/assets/8be05744-f64d-4aed-b645-ce211903188e" />
 <img width="2915" height="1452" alt="image" src="https://github.com/user-attachments/assets/6b35761e-0bf8-4d8c-bf35-c5adfef1cfeb" />
