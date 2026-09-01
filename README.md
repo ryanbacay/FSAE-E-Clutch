@@ -1,5 +1,3 @@
-WIP.... Will update with final code and irl performance when finished.
-(3/14/26)-nearing the end of debugging and troubleshooting. 
 Important errors at the bottom.
 
 <img width="1720" height="1290" alt="image" src="https://github.com/user-attachments/assets/8be05744-f64d-4aed-b645-ce211903188e" />
